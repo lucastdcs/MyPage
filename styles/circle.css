@@ -1,0 +1,42 @@
+.circle {
+    width: 680px;
+    height: 680px;
+    border-radius: 50%;
+}
+
+.-purple {
+    background: linear-gradient(0deg, #E12179 0%, #311996 100%);
+}
+
+.-firstP {
+    position: absolute;
+    margin-left: -100%;
+    margin-top: -30%;
+}
+
+.-blue {
+    background: linear-gradient(0deg, #40A4FF 0%, #311996 100%);
+}
+
+.-firstB {
+    position: absolute;
+    margin-top: 235px;
+    margin-right: -75%;
+}
+
+.-secondP {
+    position: absolute;
+    width: 480px;
+    height: 480px;
+    margin-right: -67%;
+    margin-top: -10%;
+}
+
+.-stroke {
+    position: absolute;
+    width: 780px;
+    height: 780px;
+    border: 1px solid #F8F0E4;
+    margin-right: -818px;
+    margin-top: 25px
+}
