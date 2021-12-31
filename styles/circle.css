@@ -32,6 +32,12 @@
     margin-top: -10%;
 }
 
+.-thirdP {
+    position: absolute;
+    width: 481px;
+    height: 481px;
+}
+
 .-stroke {
     position: absolute;
     width: 780px;
@@ -39,4 +45,10 @@
     border: 1px solid #F8F0E4;
     margin-right: -818px;
     margin-top: 25px
+}
+
+.-secondB {
+    width: 517px;
+    height: 517px;
+    margin-left: -160px;
 }

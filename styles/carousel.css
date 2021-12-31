@@ -1,0 +1,14 @@
+.carousel {
+    position: absolute;
+    display: inline-flex;
+    align-self: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.-cItem {
+    margin-left: 5px;
+    margin-right: 5px;
+    width: 400px;
+    height: 400px;
+}
