@@ -1,4 +1,21 @@
-.arrow {
+.arrow .-v1 {
     position: absolute;
     margin-top: 720px;
+}
+
+.-v2 {
+    transform: rotateZ( 90deg);
+    margin-left: -189px;
+    margin-right: 177px;
+}
+
+.-v3 {
+    transform: rotateZ( -90deg);
+    margin-left: 188px;
+}
+
+.group-arrows {
+    margin-right: 41px;
+    margin-left: 906px;
+    margin-top: 505px;
 }
