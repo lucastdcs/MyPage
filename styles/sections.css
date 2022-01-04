@@ -26,3 +26,16 @@
     font-size: 48px;
     font-weight: 500;
 }
+
+.-third {
+    position: relative;
+    overflow: hidden;
+    height: 1177px;
+}
+
+.-third .title {
+    position: absolute;
+    margin-right: 500px;
+    margin-left: 716px;
+    margin-top: 73px;
+}

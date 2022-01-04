@@ -30,7 +30,18 @@
 }
 
 .-b2 .title {
-    position: absolute;
     margin-top: 100px;
     margin-left: 100px;
+}
+
+.-b3 {
+    display: inline-flex;
+    position: absolute;
+    height: 668px;
+    width: 981px;
+    left: 28.26%;
+    right: 3.61%;
+    top: 18.69%;
+    bottom: 24.55%;
+    z-index: 1;
 }
